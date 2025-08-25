@@ -18,3 +18,17 @@ O foco deste repositório é a execução **local** do projeto.
    ```bash
    git clone https://github.com/Miguelmrg/dslist.git
    cd dslist
+Configure o banco PostgreSQL:
+
+Crie um banco chamado dslist
+
+Ajuste application.properties com usuário e senha do seu PostgreSQL local
+
+Rode o projeto com Maven:
+
+./mvnw spring-boot:run
+
+
+Acesse no navegador/cliente REST:
+
+http://localhost:8080
