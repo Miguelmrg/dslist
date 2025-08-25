@@ -31,3 +31,33 @@ Rode o projeto com Maven:
 Acesse no navegador/cliente REST:
 
 http://localhost:8080
+
+📌 Endpoints disponíveis
+
+GET /games → Lista todos os jogos
+
+GET /games/{id} → Retorna jogo por ID (1 a 10)
+
+GET /lists → Lista todas as listas
+
+GET /lists/{id} → Retorna lista por ID (1 ou 2)
+
+📸 Exemplos de Requisições
+
+🔹 Listando todos os jogos (GET /games)
+
+
+🔹 Buscando um jogo por ID (GET /games/1)
+
+
+🔹 Listando todas as listas (GET /lists)
+
+
+🔹 Buscando lista por ID (GET /lists/1)
+
+
+✨ Créditos
+
+Autor: Miguel Grillo
+
+Projeto feito em acompanhamento com o Intensivão Java Spring do professor Nélio Alves
