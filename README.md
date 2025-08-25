@@ -6,6 +6,12 @@ Este projeto foi realizado durante o **Intensivão Java Spring** ministrado pelo
 
 ---
 
+## ⚠ AVISO
+
+O front-end do projeto **ainda** não está desenvolvido. Recomendo que verifique o funcionamento com base apenas no Postman. 
+
+---
+
 ## 🚀 Deploy
 O deploy foi realizado no **Railway**, mas ficará disponível apenas temporariamente (teste gratuito de 1 mês).  
 O foco deste repositório é a execução **local** do projeto.
@@ -30,9 +36,11 @@ Rode o projeto com Maven:
    ```
 Acesse no navegador/cliente REST:
 
-http://localhost:8080
+http://localhost:8080 
 
-📌 Endpoints disponíveis
+---
+
+##📌 Endpoints disponíveis
 
 GET /games → Lista todos os jogos
 
