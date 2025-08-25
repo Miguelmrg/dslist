@@ -25,10 +25,9 @@ Crie um banco chamado dslist
 Ajuste application.properties com usuário e senha do seu PostgreSQL local
 
 Rode o projeto com Maven:
-
-./mvnw spring-boot:run
-
-
+   ```bash
+   ./mvnw spring-boot:run
+   ```
 Acesse no navegador/cliente REST:
 
 http://localhost:8080
