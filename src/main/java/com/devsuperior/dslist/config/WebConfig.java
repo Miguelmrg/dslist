@@ -1,4 +1,4 @@
-package com.devsuperior.dslist.config;
+/*package com.devsuperior.dslist.config;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.context.annotation.Bean;
@@ -22,4 +22,5 @@ public class WebConfig {
 		};
 	}
 	
-}
+} 
+*/
